@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 {
-	//Q14. Write a function called Multiple that takes two numbers x and y as input and returns 1 if x is divisible by y and 0 otherwise
+	//Q14. Write a program called Multiple that takes two numbers x and y as input and returns 1 if x is divisible by y and 0 otherwise
 	
 	int x,y,w;
 	
