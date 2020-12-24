@@ -1,7 +1,7 @@
 #include<stdio.h>
 main()
 {
-	//Q13. Write a function that takes temperature in Fahrenheit as an input argument and returns the Kelvin temperature.
+	//Q13. Write a program that takes temperature in Fahrenheit and covert into the Kelvin temperature.
 	
 	float f,k;
 	
